@@ -1,2 +1,3 @@
 # Pong-Arcade-Ball-Game
-Pong ball game 
+A 2 Player Pong ball game
+
